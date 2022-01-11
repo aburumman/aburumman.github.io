@@ -19,3 +19,9 @@ A typical scenario I've experienced multiple times is where there is a failure i
 It would bring a great deal of frustration isolating the root cause and pressure counts to the mount as you approach your SLO limits.
 
 So having a system such as prometheus identifying and alerting on issues before fatal failures occur is key Creating a continuous monitoring strategy and site reliability system with prometheus is quintessential for a reslilient and well architect-edproduction system.
+
+For opinions, suggestions and contributions 
+
+Contact at: thekubernetesengineer@gmail.com
+
+Read more: https://t.me/thekubernetesengineer
