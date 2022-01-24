@@ -1,8 +1,6 @@
 # Alayande Mustapha
 ### The Kuberentes Engineer
 
-Alayande Mustapha | Cloud Engineer
-
 | [Linkedin](https://www.linkedin.com/in/mustapha-alayande/) | [Telegram](https://t.me/thekubernetesengineer) | [Twitter](https://www.twittter.com/alayande_mb)
 
 I am a cloud engineer with 4 years experience in software development, web development, cloud deployment, product management.
@@ -22,7 +20,7 @@ Tech stacks employed: Kubernetes, Python FLask, Docker, Github Actions, Helm Cha
 
 ### [Prometheus Grafana Dashboards](https://github.com/aburumman/KPG_Cloud)
 
-Overview: Grfana dashboards deployed on a kuberenetes cluster monitoring kubernetes resources.
+Overview: Grafana dashboards deployed on a kuberenetes cluster monitoring kubernetes resources.
 
 Tech stacks employed: Prometheus, Grafana, Kubernetes.
 
