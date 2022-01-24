@@ -11,23 +11,23 @@ Studied Project Management at the Federal Univeristy of Technology Akure.
 
 I've experience with AWS, GCP, Azure, Kubernetes, Terraform, Promethues, Grafana, docker, Github Actions etc.
 
-### A few of my public projects 
+#### A few of my public projects 
 
-#### [Tech Trends](https://github.com/aburumman/tech_trends)
+### [Tech Trends](https://github.com/aburumman/tech_trends)
 
 Overview: An application that lists the latest articles within the cloud-native ecosystem written in Python flask
 
 Tech stacks employed: Kubernetes, Python FLask, Docker, Github Actions, Helm Chart.
 
 
-#### [Prometheus Grafana Dashboards](https://github.com/aburumman/KPG_Cloud)
+### [Prometheus Grafana Dashboards](https://github.com/aburumman/KPG_Cloud)
 
 Overview: Grfana dashboards deployed on a kuberenetes cluster monitoring kubernetes resources.
 
 Tech stacks employed: Prometheus, Grafana, Kubernetes.
 
 
-#### [SDM - Simple Document Merger](https://github.com/aburumman/sdm)
+### [SDM - Simple Document Merger](https://github.com/aburumman/sdm)
 
 Overview: A simple GUI App that can merge 100's pf excel sheets into a single sheet in few minutes.
 
