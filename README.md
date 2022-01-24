@@ -6,7 +6,7 @@ I am a Cloud engineer with 4 years experience in software development, web devel
 
 I studied Project Management at the Federal Univeristy of Technology Akure and also a participant at the Linux Foundation - Cloud Engineer Bootcamp.
 
-A work with AWS, GCP, Azure, Kubernetes, Terraform, Promethues, Grafana, docker, Github Actions, Azure Devops etc.
+I work with AWS, GCP, Azure, Kubernetes, Terraform, Promethues, Grafana, docker, Github Actions, Azure Devops etc.
 
 #### A few of my public projects
 
