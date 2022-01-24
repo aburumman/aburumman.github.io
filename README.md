@@ -1,14 +1,14 @@
-### The Kuberentes Engineer
+### Alayande Mustapha | The Kubernetes Engineer
 
  [Linkedin](https://www.linkedin.com/in/mustapha-alayande/) --- [Telegram](https://t.me/thekubernetesengineer) --- [Twitter](https://www.twittter.com/alayande_mb)
 
-I am a cloud engineer with 4 years experience in software development, web development, cloud deployment, product management.
+I am a Cloud engineer with 4 years experience in software development, web development, cloud deployment, product management with competent delivery capability in Sire Reliability Engineering and Devops
 
-Studied Project Management at the Federal Univeristy of Technology Akure.
+I studied Project Management at the Federal Univeristy of Technology Akure and also a participant at the Linux Foundation - Cloud Engineer Bootcamp.
 
-I've experience with AWS, GCP, Azure, Kubernetes, Terraform, Promethues, Grafana, docker, Github Actions etc.
+A work with AWS, GCP, Azure, Kubernetes, Terraform, Promethues, Grafana, docker, Github Actions, Azure Devops etc.
 
-#### A few of my public projects 
+#### A few of my public projects
 
 ### [Tech Trends](https://github.com/aburumman/tech_trends)
 
