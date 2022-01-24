@@ -33,7 +33,7 @@ Overview: A simple GUI App that can merge 100's pf excel sheets into a single sh
 
 Tech stacks employed: Python, Pandas, Tkinter
 
-#### [Pytest Mobile App](https://drive.google.com/file/d/1QVVo31UyPRtGcHLPAY7Le1uxc_F7uFNB/view)
+### [Pytest Mobile App](https://drive.google.com/file/d/1QVVo31UyPRtGcHLPAY7Le1uxc_F7uFNB/view)
 
 Overview: An mobile app for learning and practicing python built by the python community led by me.
 
