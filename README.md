@@ -1,6 +1,6 @@
-### Alayande Mustapha | The Kubernetes Engineer
+### Alayande Mustapha 
 
- [Linkedin](https://www.linkedin.com/in/mustapha-alayande/) --- [Telegram](https://t.me/thekubernetesengineer) --- [Twitter](https://www.twittter.com/alayande_mb)
+ [Linkedin](https://www.linkedin.com/in/mustapha-alayande/) | [Telegram](https://t.me/thekubernetesengineer) |[Twitter](https://www.twittter.com/alayande_mb)
 
 I am a Cloud engineer with 4 years experience in software development, web development, cloud deployment, product management with competent delivery capability in Sire Reliability Engineering and Devops
 
